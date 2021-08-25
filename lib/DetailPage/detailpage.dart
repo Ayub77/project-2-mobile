@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project2/HomePage2/HomePage2.dart';
+
 class DetailPage extends  StatefulWidget {
     static final String id = "DetailPage";
 
